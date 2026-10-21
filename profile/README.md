@@ -83,25 +83,56 @@ AI is part of how every product is *built* (agentic coding, automated review, ge
 | | Product | What it is | Status |
 |:-:|---|---|---|
 | 🧩 | **One Room Left: Mystery Escape** | A story-driven offline escape-room game. The clock stopped at 11:47, the door is locked, and the note on the desk is in your own handwriting. Multiple endings, three-level hints, a daily mystery. | 🟣 Launching on Google Play · [Privacy](https://ninjanext.github.io/oneroomleft-privacy/) |
+| 🕌 | **MuslimApp** | A calm daily companion for prayer and remembrance: on-device prayer times (10 calculation methods, Hanafi/Standard Asr), exact prayer reminders, Qibla compass, Tasbeeh, Zakat calculator and Hijri date. English, Urdu and Arabic (RTL), light and dark, phone and tablet. No accounts, ads, analytics or internet permission. | 🟢 Android |
+| 🧭 | **Qibla Compass** | A focused, lightweight Qibla finder corrected to true north, with calibration help. | 🟢 Android |
 | 🎨 | **MoodCanvas** | A private visual mood journal. Pick a colour each day and watch your entries paint a *Living Mood Mosaic*. No account, no ads, no tracking. | 🟢 Android · [Privacy](https://ninjanext.github.io/moodcanvas-privacy/) |
-| 📊 | **Cognix** | Multi-market trading intelligence for crypto, forex and binary markets. Real-time indicators, long/short signals with confidence scores, backtesting, risk analysis and automated execution. | 🔵 In development |
+| 🃏 | **MemoryMaster** | A card-matching memory game with animal, fruit and number themes, sound effects and haptics. | 🟡 Mobile game |
+| 📊 | **Cognix** | Multi-market trading intelligence for crypto, forex and binary markets. Real-time indicators, long/short signals with confidence scores, backtesting, risk analysis, automated execution and Telegram signal delivery. | 🔵 In development |
 
 ---
 
 ## 🏗️ Client platforms
 
-NinjaNext builds complete multi-app platforms (customer app, partner app, admin panel, backend), for example:
+NinjaNext builds complete multi-app platforms (customer app, partner app, admin panel, backend):
 
-| Domain | Delivered |
-|---|---|
-| 🩺 **Healthcare** | Medical second-opinion platform: patient and doctor apps on Android and iOS, admin web, secure backend |
-| 🚗 **Mobility** | Ride-hailing system: rider and driver apps for Android and iOS, operations dashboard, dispatch backend |
-| ✈️ **Travel** | Travel booking platform: website, Android/iOS apps, admin panel and API |
-| 🔧 **Automotive services** | On-demand repair and service platform: website, admin and backend |
-| 🍽️ **Hospitality** | Customer ordering web app with a companion admin app |
-| 🕌 **Lifestyle** | Prayer times and Qibla compass apps |
+| Platform | Domain | Delivered |
+|---|---|---|
+| 🩺 **HSA Second Opinion** | Healthcare | Medical second-opinion platform: patient and doctor apps on Android and iOS, admin web, Node.js/MongoDB and Kotlin backends |
+| 🚗 **Ride-Hailing System** | Mobility | Rider and driver apps for Android and iOS, operations dashboard, Java dispatch backend |
+| ✈️ **FreeToGo** | Travel | Travel platform: website, Android/iOS and React Native apps, admin panel, Kotlin backend |
+| 🔧 **SwiftFix Auto** | Automotive (UK) | Website for a DVSA-approved MOT and repair garage, admin panel and Kotlin backend |
+| 🍽️ **Jazzkeller** | Hospitality | Customer web app with a companion admin app |
+| ⚡ **KiFlash** | Web | WordPress website |
 
-`Healthcare` · `FinTech` · `Mobility` · `Travel` · `Hospitality` · `Automotive` · `Lifestyle` · `Gaming`
+`Healthcare` · `FinTech` · `Mobility` · `Travel` · `Hospitality` · `Automotive` · `Faith & Lifestyle` · `Gaming`
+
+---
+
+## 🔒 Repository portfolio
+
+Most NinjaNext code lives in **private repositories** (client IP and products before launch). Here is what's inside:
+
+<details>
+<summary><b>38 repositories · 3 public · 35 private</b> (click to expand)</summary>
+
+<br/>
+
+| Project | Repositories | Stack |
+|---|---|---|
+| **One Room Left** | 🔒 `OneRoomLeft` · 🌐 [`oneroomleft-privacy`](https://github.com/NinjaNext/oneroomleft-privacy) | Expo · React Native · TypeScript · SQLite |
+| **MoodCanvas** | 🔒 `MoodCanvas` · 🌐 [`moodcanvas-privacy`](https://github.com/NinjaNext/moodcanvas-privacy) | Expo · React Native · TypeScript · SQLite |
+| **MuslimApp** | 🔒 `MuslimApp` · 🔒 `MuslimApp-QiblaCompass` | Android · Java |
+| **MemoryMaster** | 🔒 `MemoryMaster` | Expo · React Native · TypeScript |
+| **Cognix** | 🔒 `Cognix` · 🔒 `CognixAdminPanel` | Kotlin · PostgreSQL · Python · TypeScript |
+| **HSA Second Opinion** | 🔒 `HSASecondOpinion-Android` · `-FirebaseAndroid` · `-IOS` · `DoctorApp` · `IOSDoctorApp` · `Admin` · `Admin-WEB` · `BackendGradle` · `HSABackend-Kotlin` · `Details` | Kotlin · Swift · React · Node.js · MongoDB · Firebase |
+| **Ride-Hailing** | 🔒 `RIDE-HAILING-Rider-Android` · `-Driver-Android` · `-Rider-IOS` · `-Driver-IOS` · `-FE` · `-BE` | Kotlin · Swift · React · TypeScript · Java |
+| **FreeToGo** | 🔒 `FreeToGoWebsite` · `FreeToGoApp` · `FreeToGo-Android-App` · `FreeToGo-IOS-App` · `FreeToGo-Admin-Panel` · `FreeToGo-Backend` | TypeScript · React Native · Kotlin |
+| **SwiftFix Auto** | 🔒 `SwiftFix-Website` · `SwiftFix_Admin` · `SwiftFixAuto_Backend` | Next.js · Tailwind · TypeScript · Kotlin |
+| **Jazzkeller** | 🔒 `JazzkellerWebCustomerApp` · `JazzkellerWebAdminApp` | React · JavaScript |
+| **KiFlash** | 🔒 `KiFlash-Wordpresss` | WordPress |
+| **Org** | 🌐 [`.github`](https://github.com/NinjaNext/.github) | Profile & templates |
+
+</details>
 
 ---
 
