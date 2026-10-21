@@ -1,101 +1,95 @@
-<!-- ───────────────────────── HERO ───────────────────────── -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,45:1E1B4B,100:7C3AED&height=230&section=header&text=NinjaNext%20Technologies&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=AI-powered%20apps%20%26%20digital%20products&descSize=18&descAlignY=56&animation=fadeIn" alt="NinjaNext Technologies" />
-</p>
+<a href="mailto:ask@ninjanexttech.com?subject=Project%20enquiry">
+  <img src="./assets/hero.svg" width="100%" alt="NinjaNext Technologies: Build AI-powered products your customers love. Start your project." />
+</a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=19&pause=1300&color=A78BFA&center=true&vCenter=true&width=680&lines=Turn+your+idea+into+a+product+people+love.;AI+that+saves+your+business+hours+every+day.;Apps+for+Android%2C+iOS+and+the+web.;From+first+sketch+to+store+launch." alt="Turn your idea into a product people love" />
+  <a href="mailto:ask@ninjanexttech.com?subject=Project%20enquiry"><img src="https://img.shields.io/badge/✦%20Start%20your%20project-7C3AED?style=for-the-badge&logoColor=white" alt="Start your project" /></a>
+  <a href="https://ninjanexttech.com"><img src="https://img.shields.io/badge/Visit%20ninjanexttech.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit ninjanexttech.com" /></a>
+  <a href="#-products-people-love"><img src="https://img.shields.io/badge/See%20our%20products-0EA5E9?style=for-the-badge&logo=googleplay&logoColor=white" alt="See our products" /></a>
 </p>
+
+<br/>
+
+<img src="./assets/stats.svg" width="100%" alt="6 own products · 6+ industries served · Android, iOS and Web · one partner from idea to launch" />
+
+<br/><br/>
+
+<h2 align="center">The AI-enabled studio for ambitious ideas</h2>
 
 <p align="center">
-  <a href="https://ninjanexttech.com"><img src="https://img.shields.io/badge/Website-ninjanexttech.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:ask@ninjanexttech.com?subject=Project%20enquiry"><img src="https://img.shields.io/badge/Let's%20talk-ask%40ninjanexttech.com-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Lahore%2C%20Pakistan-Serving%20clients%20worldwide-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Lahore, Pakistan · serving clients worldwide" />
+  <b>NinjaNext Technologies</b> helps startups and growing businesses turn ideas into<br/>
+  <b>beautiful apps, smart platforms and AI that works for you</b>, then launches them to the world.
 </p>
 
----
+<p align="center"><i>You bring the vision. NinjaNext brings it to life, faster than you thought possible.</i></p>
 
-## ✨ Ideas, built and launched
+<br/>
 
-**NinjaNext Technologies** turns ideas into polished apps and AI-powered products, and takes them all the way to launch.
+## 💼 What NinjaNext delivers
 
-Whether you are a startup with a new idea or a business that wants to work smarter, NinjaNext handles everything: product design, mobile and web apps, AI features, store launch and growth.
+<img src="./assets/services.svg" width="100%" alt="AI for your business · Mobile apps · Websites & platforms · Smart insights · Games & consumer apps · Launch & growth" />
 
-> 🚀 **One partner, from idea to launch.** You get a clear plan, steady progress you can see, and a product that's ready for real customers.
+<br/>
 
----
-
-## 💼 What NinjaNext does for you
+## 🧠 AI that works for your business
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🤖 AI for your business
-Put AI to work in your business: assistants that answer customers 24/7, smart search across your documents, and automation that removes repetitive work so your people can focus on what matters.
-
+<td width="25%" align="center" valign="top">
+<h3>💬</h3>
+<b>AI customer assistant</b><br/>
+<sub>Answers questions, books appointments and helps customers day and night.</sub>
 </td>
-<td width="50%" valign="top">
-
-### 📱 Mobile apps
-Beautiful, fast apps for Android and iPhone that customers enjoy using, built to launch on Google Play and the App Store.
-
+<td width="25%" align="center" valign="top">
+<h3>⚙️</h3>
+<b>Workflow automation</b><br/>
+<sub>Handles the repetitive work: reports, data entry, follow-ups.</sub>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Websites & platforms
-Websites, booking systems, customer portals and admin dashboards that grow with your business.
-
+<td width="25%" align="center" valign="top">
+<h3>🔎</h3>
+<b>Smart search</b><br/>
+<sub>Find any answer across your documents in seconds.</sub>
 </td>
-<td width="50%" valign="top">
-
-### 📈 Smart insights
-Dashboards and AI-driven insights that turn your data into clear decisions.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 Games & consumer apps
-Engaging games and lifestyle apps with great design, smooth play and loyal users.
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 Launch & growth
-Store listings, screenshots, privacy policies and social media launch kits, so your product launches looking its best.
-
+<td width="25%" align="center" valign="top">
+<h3>📊</h3>
+<b>Predictive insights</b><br/>
+<sub>Spot trends early and make decisions with confidence.</sub>
 </td>
 </tr>
 </table>
 
----
+<p align="center">
+  <a href="mailto:ask@ninjanexttech.com?subject=AI%20for%20my%20business"><img src="https://img.shields.io/badge/Bring%20AI%20into%20your%20business%20%E2%86%92-111827?style=for-the-badge&labelColor=7C3AED" alt="Bring AI into your business" /></a>
+</p>
 
-## 🌟 NinjaNext products
+<br/>
+
+## 🌟 Products people love
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 One Room Left: Mystery Escape
+### 🧩 One Room Left
+**Mystery Escape**
+
 *One room. One lost hour. Many secrets.*
 
-A story-driven escape-room mystery. You wake in a locked study, the clock stopped at 11:47, holding a note in your own handwriting. Solve puzzles, uncover secrets and choose how the story ends.
+Wake in a locked study where the clock stopped at 11:47 and a note in your own handwriting waits on the desk. Solve the puzzles, uncover the secrets and choose how the story ends.
 
-🟣 **Coming soon to Google Play**
+<img src="https://img.shields.io/badge/Coming%20soon-Google%20Play-8B5CF6?style=flat-square&logo=googleplay&logoColor=white" />
 
 </td>
 <td width="50%" valign="top">
 
 ### 🕌 MuslimApp
-*Your daily companion for prayer and remembrance.*
+**Prayer & Remembrance**
+
+*Your calm daily companion.*
 
 Accurate prayer times and reminders, Qibla compass, Tasbeeh counter, Zakat calculator and Hijri date. In English, Urdu and Arabic, and it works fully offline.
 
-🟢 **Android**
+<img src="https://img.shields.io/badge/Available-Android-10B981?style=flat-square&logo=android&logoColor=white" />
 
 </td>
 </tr>
@@ -103,21 +97,25 @@ Accurate prayer times and reminders, Qibla compass, Tasbeeh counter, Zakat calcu
 <td width="50%" valign="top">
 
 ### 🎨 MoodCanvas
+**Visual Mood Journal**
+
 *Your life, one shade at a time.*
 
-A private mood journal where each day becomes a colour, and over time your days paint a beautiful mosaic of your life.
+Each day becomes a colour, and over time your days paint a beautiful mosaic of your life. Private by design.
 
-🟢 **Android**
+<img src="https://img.shields.io/badge/Available-Android-10B981?style=flat-square&logo=android&logoColor=white" />
 
 </td>
 <td width="50%" valign="top">
 
 ### 📊 Cognix
+**AI Market Intelligence**
+
 *Smarter market decisions.*
 
-AI-assisted trading insights for crypto, forex and binary markets, with clear buy and sell signals, confidence scores and risk insights.
+AI-assisted insights for crypto, forex and binary markets, with clear buy and sell signals, confidence scores and risk insights.
 
-🔵 **Coming soon**
+<img src="https://img.shields.io/badge/Coming%20soon-Early%20access-0EA5E9?style=flat-square" />
 
 </td>
 </tr>
@@ -125,85 +123,97 @@ AI-assisted trading insights for crypto, forex and binary markets, with clear bu
 <td width="50%" valign="top">
 
 ### 🧭 Qibla Compass
-*Find the Qibla anywhere.*
+**Find the Qibla anywhere**
 
 A simple, accurate Qibla finder that's ready the moment you open it.
 
-🟢 **Android**
+<img src="https://img.shields.io/badge/Available-Android-10B981?style=flat-square&logo=android&logoColor=white" />
 
 </td>
 <td width="50%" valign="top">
 
 ### 🃏 MemoryMaster
-*Train your memory. Have fun doing it.*
+**Brain-training game**
 
 A colourful card-matching game with animals, fruits and numbers, for kids and adults.
 
-🟢 **Mobile**
+<img src="https://img.shields.io/badge/Mobile-Game-F59E0B?style=flat-square" />
 
 </td>
 </tr>
 </table>
 
-> 🔒 **Privacy first.** NinjaNext's own apps need no account and show no ads, and your personal data stays on your phone.
+<p align="center"><sub>🔒 <b>Privacy first:</b> NinjaNext's own apps need no account, show no ads and keep your personal data on your phone.</sub></p>
 
----
+<br/>
 
-## 🤝 Trusted by businesses in
-
-| | Industry | Built for clients |
-|:-:|---|---|
-| 🩺 | **Healthcare** | **HSA Second Opinion** connects patients with specialist doctors for expert medical second opinions, with apps for patients and doctors. |
-| 🚗 | **Mobility** | A complete **ride-hailing** service with rider and driver apps and a live operations dashboard. |
-| ✈️ | **Travel** | **FreeToGo** is a travel platform with a website and mobile apps for planning and booking trips. |
-| 🔧 | **Automotive** | **SwiftFix Auto** (UK) has a modern website and booking system for an MOT and car repair garage. |
-| 🍽️ | **Hospitality** | **Jazzkeller** offers online ordering for guests, with a management app for staff. |
-| ⚡ | **Brands** | **KiFlash** has a business website built to convert visitors. |
-
----
-
-## 🧭 How we work together
-
-```mermaid
-flowchart LR
-    A[💡 Share your idea] --> B[🎯 Plan & design]
-    B --> C[🛠️ Build & weekly demos]
-    C --> D[🚀 Launch]
-    D --> E[📈 Grow & improve]
-```
-
-1. **Share your idea.** A free call to understand your goals and your customers.
-2. **Plan & design.** A clear scope, timeline and screen designs before any build starts.
-3. **Build with weekly demos.** You see real progress every week and give feedback as it happens.
-4. **Launch.** Store listing, privacy policy and launch materials are all handled.
-5. **Grow.** Updates, new features and AI upgrades as your business grows.
-
----
-
-## 💡 Why NinjaNext
+## 🤝 Trusted across industries
 
 <table>
 <tr>
-<td align="center" width="25%">⚡<br/><b>Fast delivery</b><br/><sub>AI-assisted building gets you to launch sooner</sub></td>
-<td align="center" width="25%">🎯<br/><b>One point of contact</b><br/><sub>You talk directly to the person building your product</sub></td>
-<td align="center" width="25%">🔒<br/><b>Privacy first</b><br/><sub>Your data and your customers' data are respected</sub></td>
-<td align="center" width="25%">🌍<br/><b>Worldwide</b><br/><sub>Clients in Pakistan, the UK and beyond</sub></td>
+<td width="33%" valign="top">
+🩺 <b>Healthcare</b><br/>
+<b>HSA Second Opinion</b><br/>
+<sub>Connects patients with specialist doctors for expert medical second opinions.</sub>
+</td>
+<td width="33%" valign="top">
+🚗 <b>Mobility</b><br/>
+<b>Ride-Hailing Platform</b><br/>
+<sub>Rider and driver apps with a live operations dashboard.</sub>
+</td>
+<td width="33%" valign="top">
+✈️ <b>Travel</b><br/>
+<b>FreeToGo</b><br/>
+<sub>Plan and book trips across web and mobile.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+🔧 <b>Automotive · UK</b><br/>
+<b>SwiftFix Auto</b><br/>
+<sub>A modern website and booking system for an MOT and repair garage.</sub>
+</td>
+<td width="33%" valign="top">
+🍽️ <b>Hospitality</b><br/>
+<b>Jazzkeller</b><br/>
+<sub>Online ordering for guests and a management app for staff.</sub>
+</td>
+<td width="33%" valign="top">
+⚡ <b>Brands</b><br/>
+<b>KiFlash</b><br/>
+<sub>A business website designed to turn visitors into customers.</sub>
+</td>
 </tr>
 </table>
 
----
+<br/>
 
-## 📬 Let's build something great
+## 🧭 From idea to launch in 5 steps
 
-Have an idea for an app, want AI working in your business, or need a product launched the right way?
+<img src="./assets/process.svg" width="100%" alt="1 Share your idea · 2 Plan & design · 3 Build & demo weekly · 4 Launch · 5 Grow" />
+
+<br/>
+
+## 💎 Why businesses choose NinjaNext
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">⚡<br/><b>Launch faster</b><br/><sub>AI-assisted building gets your product to market sooner</sub></td>
+<td align="center" width="25%" valign="top">🎯<br/><b>Direct access</b><br/><sub>You talk directly to the person building your product</sub></td>
+<td align="center" width="25%" valign="top">✨<br/><b>Premium design</b><br/><sub>Polished, modern experiences your customers will love</sub></td>
+<td align="center" width="25%" valign="top">🔒<br/><b>Privacy first</b><br/><sub>Your data and your customers' data are respected</sub></td>
+</tr>
+</table>
+
+<br/>
+
+<a href="mailto:ask@ninjanexttech.com?subject=Project%20enquiry">
+  <img src="./assets/cta.svg" width="100%" alt="Ready to build what's next? Start your project at ask@ninjanexttech.com" />
+</a>
 
 <p align="center">
-  <a href="mailto:ask@ninjanexttech.com?subject=Project%20enquiry"><img src="https://img.shields.io/badge/Start%20your%20project-ask%40ninjanexttech.com-7C3AED?style=for-the-badge&logo=maildotru&logoColor=white" alt="Start your project" /></a>
-  <a href="https://ninjanexttech.com"><img src="https://img.shields.io/badge/Visit-ninjanexttech.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:ask@ninjanexttech.com?subject=Project%20enquiry"><img src="https://img.shields.io/badge/ask%40ninjanexttech.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://ninjanexttech.com"><img src="https://img.shields.io/badge/ninjanexttech.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 </p>
 
-<p align="center"><sub>Founded and led by <b>Muhammad Saqib Javed</b> · Lahore, Pakistan</sub></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:1E1B4B,100:0B0F1A&height=120&section=footer" />
-</p>
+<p align="center"><sub>Founded and led by <b>Muhammad Saqib Javed</b> · Lahore, Pakistan · Serving clients worldwide</sub></p>

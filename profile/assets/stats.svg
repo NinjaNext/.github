@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="150" viewBox="0 0 1280 150" role="img" aria-label="6 own products, 6 industries served, Android, iOS and Web, one partner from idea to launch">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0E0B26"/>
+      <stop offset="1" stop-color="#140F38"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <style>
+      text { font-family: 'Segoe UI', 'Inter', -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+      .s { animation: up .9s ease-out both; }
+      .s2 { animation-delay: .15s; } .s3 { animation-delay: .3s; } .s4 { animation-delay: .45s; }
+      @keyframes up { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+    </style>
+  </defs>
+  <rect width="1280" height="150" rx="24" fill="url(#bg)"/>
+  <rect x=".5" y=".5" width="1279" height="149" rx="24" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <g stroke="#FFFFFF" stroke-opacity=".08"><line x1="320" y1="34" x2="320" y2="116"/><line x1="640" y1="34" x2="640" y2="116"/><line x1="960" y1="34" x2="960" y2="116"/></g>
+  <g class="s" text-anchor="middle"><text x="160" y="78" font-size="44" font-weight="800" fill="url(#brand)">6</text><text x="160" y="110" font-size="15" fill="#B9B6D9">own products</text></g>
+  <g class="s s2" text-anchor="middle"><text x="480" y="78" font-size="44" font-weight="800" fill="url(#brand)">6+</text><text x="480" y="110" font-size="15" fill="#B9B6D9">industries served</text></g>
+  <g class="s s3" text-anchor="middle"><text x="800" y="78" font-size="40" font-weight="800" fill="url(#brand)">3</text><text x="800" y="110" font-size="15" fill="#B9B6D9">platforms: Android · iOS · Web</text></g>
+  <g class="s s4" text-anchor="middle"><text x="1120" y="78" font-size="44" font-weight="800" fill="url(#brand)">1</text><text x="1120" y="110" font-size="15" fill="#B9B6D9">partner, idea to launch</text></g>
+</svg>

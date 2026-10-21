@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="250" viewBox="0 0 1280 250" role="img" aria-label="How it works: 1 Share your idea, 2 Plan and design, 3 Build with weekly demos, 4 Launch, 5 Grow">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0E0B26"/>
+      <stop offset="1" stop-color="#150F3A"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset=".5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#F472B6"/>
+    </linearGradient>
+    <linearGradient id="btn" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7C3AED"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
+    <style>
+      text { font-family: 'Segoe UI', 'Inter', -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+      .t { font-size: 18px; font-weight: 700; fill: #FFFFFF; }
+      .d { font-size: 14px; fill: #B9B6D9; }
+      .n { font-size: 18px; font-weight: 800; fill: #FFFFFF; }
+      .run { animation: run 5s linear infinite; }
+      .path { stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: draw 2.4s ease-out forwards; }
+      @keyframes run { from { transform: translateX(0); } to { transform: translateX(960px); } }
+      @keyframes draw { to { stroke-dashoffset: 0; } }
+    </style>
+  </defs>
+  <rect width="1280" height="250" rx="24" fill="url(#bg)"/>
+  <rect x=".5" y=".5" width="1279" height="249" rx="24" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+
+  <line x1="160" y1="86" x2="1120" y2="86" stroke="#FFFFFF" stroke-opacity=".08" stroke-width="4" stroke-linecap="round"/>
+  <line class="path" x1="160" y1="86" x2="1120" y2="86" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+  <circle class="run" cx="160" cy="86" r="6" fill="#FFFFFF"/>
+
+  <g text-anchor="middle">
+    <g transform="translate(160 0)">
+      <circle cy="86" r="30" fill="url(#btn)"/><circle cy="86" r="38" fill="none" stroke="#A78BFA" stroke-opacity=".35"/>
+      <text y="92" class="n">1</text>
+      <text y="160" class="t">Share your idea</text>
+      <text y="186" class="d">A call to understand</text>
+      <text y="206" class="d">your goals</text>
+    </g>
+    <g transform="translate(400 0)">
+      <circle cy="86" r="30" fill="url(#btn)"/><circle cy="86" r="38" fill="none" stroke="#A78BFA" stroke-opacity=".35"/>
+      <text y="92" class="n">2</text>
+      <text y="160" class="t">Plan &amp; design</text>
+      <text y="186" class="d">Clear scope, timeline</text>
+      <text y="206" class="d">and screen designs</text>
+    </g>
+    <g transform="translate(640 0)">
+      <circle cy="86" r="30" fill="url(#btn)"/><circle cy="86" r="38" fill="none" stroke="#A78BFA" stroke-opacity=".35"/>
+      <text y="92" class="n">3</text>
+      <text y="160" class="t">Build &amp; demo weekly</text>
+      <text y="186" class="d">See real progress</text>
+      <text y="206" class="d">every single week</text>
+    </g>
+    <g transform="translate(880 0)">
+      <circle cy="86" r="30" fill="url(#btn)"/><circle cy="86" r="38" fill="none" stroke="#A78BFA" stroke-opacity=".35"/>
+      <text y="92" class="n">4</text>
+      <text y="160" class="t">Launch</text>
+      <text y="186" class="d">Store, privacy and</text>
+      <text y="206" class="d">launch kit handled</text>
+    </g>
+    <g transform="translate(1120 0)">
+      <circle cy="86" r="30" fill="url(#btn)"/><circle cy="86" r="38" fill="none" stroke="#A78BFA" stroke-opacity=".35"/>
+      <text y="92" class="n">5</text>
+      <text y="160" class="t">Grow</text>
+      <text y="186" class="d">New features and</text>
+      <text y="206" class="d">AI upgrades</text>
+    </g>
+  </g>
+</svg>

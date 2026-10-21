@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="Services: AI for your business, mobile apps, websites and platforms, smart insights, games and consumer apps, launch and growth">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#16123A"/>
+      <stop offset="1" stop-color="#0C0A22"/>
+    </linearGradient>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7C3AED"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2563EB"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0EA5E9"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+    <linearGradient id="g4" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F59E0B"/><stop offset="1" stop-color="#F472B6"/></linearGradient>
+    <linearGradient id="g5" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#EC4899"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+    <linearGradient id="g6" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10B981"/><stop offset="1" stop-color="#6366F1"/></linearGradient>
+    <style>
+      text { font-family: 'Segoe UI', 'Inter', -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+      .t { font-size: 22px; font-weight: 700; fill: #FFFFFF; }
+      .d { font-size: 15px; fill: #B9B6D9; }
+      .o { font-size: 13px; font-weight: 700; fill: #E9E6FF; letter-spacing: .4px; }
+      .c { animation: rise .9s ease-out both; }
+      .c2 { animation-delay: .1s; } .c3 { animation-delay: .2s; } .c4 { animation-delay: .3s; } .c5 { animation-delay: .4s; } .c6 { animation-delay: .5s; }
+      @keyframes rise { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: none; } }
+    </style>
+  </defs>
+
+  <!-- Card template: 400 x 300, gap 40 -->
+  <g class="c" transform="translate(0 0)">
+    <rect width="400" height="300" rx="24" fill="url(#card)" stroke="#FFFFFF" stroke-opacity=".09"/>
+    <rect x="32" y="0" width="120" height="4" rx="2" fill="url(#g1)"/>
+    <rect x="32" y="36" width="60" height="60" rx="18" fill="url(#g1)"/>
+    <text x="62" y="76" text-anchor="middle" font-size="28">🤖</text>
+    <text x="32" y="142" class="t">AI for your business</text>
+    <text x="32" y="176" class="d">Assistants that answer customers 24/7,</text>
+    <text x="32" y="198" class="d">smart search across your documents and</text>
+    <text x="32" y="220" class="d">automation that removes repetitive work.</text>
+    <rect x="32" y="244" width="196" height="30" rx="15" fill="#FFFFFF" fill-opacity=".07"/>
+    <circle cx="50" cy="259" r="3.5" fill="#A78BFA"/><text x="62" y="264" class="o">Save hours every week</text>
+  </g>
+
+  <g class="c c2" transform="translate(440 0)">
+    <rect width="400" height="300" rx="24" fill="url(#card)" stroke="#FFFFFF" stroke-opacity=".09"/>
+    <rect x="32" y="0" width="120" height="4" rx="2" fill="url(#g2)"/>
+    <rect x="32" y="36" width="60" height="60" rx="18" fill="url(#g2)"/>
+    <text x="62" y="76" text-anchor="middle" font-size="28">📱</text>
+    <text x="32" y="142" class="t">Mobile apps</text>
+    <text x="32" y="176" class="d">Beautiful, fast apps for Android and</text>
+    <text x="32" y="198" class="d">iPhone that customers enjoy using, ready</text>
+    <text x="32" y="220" class="d">for Google Play and the App Store.</text>
+    <rect x="32" y="244" width="200" height="30" rx="15" fill="#FFFFFF" fill-opacity=".07"/>
+    <circle cx="50" cy="259" r="3.5" fill="#A78BFA"/><text x="62" y="264" class="o">Loved by real users</text>
+  </g>
+
+  <g class="c c3" transform="translate(880 0)">
+    <rect width="400" height="300" rx="24" fill="url(#card)" stroke="#FFFFFF" stroke-opacity=".09"/>
+    <rect x="32" y="0" width="120" height="4" rx="2" fill="url(#g3)"/>
+    <rect x="32" y="36" width="60" height="60" rx="18" fill="url(#g3)"/>
+    <text x="62" y="76" text-anchor="middle" font-size="28">🌐</text>
+    <text x="32" y="142" class="t">Websites &amp; platforms</text>
+    <text x="32" y="176" class="d">Websites, booking systems, customer</text>
+    <text x="32" y="198" class="d">portals and admin dashboards that grow</text>
+    <text x="32" y="220" class="d">with your business.</text>
+    <rect x="32" y="244" width="206" height="30" rx="15" fill="#FFFFFF" fill-opacity=".07"/>
+    <circle cx="50" cy="259" r="3.5" fill="#A78BFA"/><text x="62" y="264" class="o">Built to convert &amp; scale</text>
+  </g>
+
+  <g class="c c4" transform="translate(0 340)">
+    <rect width="400" height="300" rx="24" fill="url(#card)" stroke="#FFFFFF" stroke-opacity=".09"/>
+    <rect x="32" y="0" width="120" height="4" rx="2" fill="url(#g4)"/>
+    <rect x="32" y="36" width="60" height="60" rx="18" fill="url(#g4)"/>
+    <text x="62" y="76" text-anchor="middle" font-size="28">📈</text>
+    <text x="32" y="142" class="t">Smart insights</text>
+    <text x="32" y="176" class="d">Dashboards and AI-driven insights that</text>
+    <text x="32" y="198" class="d">turn your data into clear, confident</text>
+    <text x="32" y="220" class="d">decisions.</text>
+    <rect x="32" y="244" width="190" height="30" rx="15" fill="#FFFFFF" fill-opacity=".07"/>
+    <circle cx="50" cy="259" r="3.5" fill="#A78BFA"/><text x="62" y="264" class="o">Decide with clarity</text>
+  </g>
+
+  <g class="c c5" transform="translate(440 340)">
+    <rect width="400" height="300" rx="24" fill="url(#card)" stroke="#FFFFFF" stroke-opacity=".09"/>
+    <rect x="32" y="0" width="120" height="4" rx="2" fill="url(#g5)"/>
+    <rect x="32" y="36" width="60" height="60" rx="18" fill="url(#g5)"/>
+    <text x="62" y="76" text-anchor="middle" font-size="28">🎮</text>
+    <text x="32" y="142" class="t">Games &amp; consumer apps</text>
+    <text x="32" y="176" class="d">Engaging games and lifestyle apps with</text>
+    <text x="32" y="198" class="d">great design, smooth play and users who</text>
+    <text x="32" y="220" class="d">keep coming back.</text>
+    <rect x="32" y="244" width="200" height="30" rx="15" fill="#FFFFFF" fill-opacity=".07"/>
+    <circle cx="50" cy="259" r="3.5" fill="#A78BFA"/><text x="62" y="264" class="o">Built for engagement</text>
+  </g>
+
+  <g class="c c6" transform="translate(880 340)">
+    <rect width="400" height="300" rx="24" fill="url(#card)" stroke="#FFFFFF" stroke-opacity=".09"/>
+    <rect x="32" y="0" width="120" height="4" rx="2" fill="url(#g6)"/>
+    <rect x="32" y="36" width="60" height="60" rx="18" fill="url(#g6)"/>
+    <text x="62" y="76" text-anchor="middle" font-size="28">🚀</text>
+    <text x="32" y="142" class="t">Launch &amp; growth</text>
+    <text x="32" y="176" class="d">Store listings, screenshots, privacy</text>
+    <text x="32" y="198" class="d">policies and social launch kits, so you</text>
+    <text x="32" y="220" class="d">launch looking your best.</text>
+    <rect x="32" y="244" width="188" height="30" rx="15" fill="#FFFFFF" fill-opacity=".07"/>
+    <circle cx="50" cy="259" r="3.5" fill="#A78BFA"/><text x="62" y="264" class="o">Launch-day ready</text>
+  </g>
+</svg>
