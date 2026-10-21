@@ -216,4 +216,11 @@ A colourful card-matching game with animals, fruits and numbers, for kids and ad
   <a href="https://ninjanexttech.com"><img src="https://img.shields.io/badge/ninjanexttech.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 </p>
 
+<p align="center">
+  💬 <b>Join the conversation:</b>
+  <a href="https://github.com/orgs/NinjaNext/discussions/4">Welcome</a> ·
+  <a href="https://github.com/orgs/NinjaNext/discussions/5">One Room Left preview</a> ·
+  <a href="https://github.com/orgs/NinjaNext/discussions/6">Share your idea</a>
+</p>
+
 <p align="center"><sub>Founded and led by <b>Muhammad Saqib Javed</b> · Lahore, Pakistan · Serving clients worldwide</sub></p>
