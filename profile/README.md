@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="./assets/stats.svg" width="100%" alt="6 own products · 6+ industries served · Android, iOS and Web · one partner from idea to launch" />
+<img src="./assets/stats.svg" width="100%" alt="8 own products · 6+ industries served · Android, iOS and Web · one partner from idea to launch" />
 
 <br/><br/>
 
@@ -70,40 +70,40 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 One Room Left
+### 🧩 [One Room Left](https://play.google.com/store/apps/details?id=com.ninjanext.oneroomleft)
 **Mystery Escape**
 
 *One room. One lost hour. Many secrets.*
 
 Wake in a locked study where the clock stopped at 11:47 and a note in your own handwriting waits on the desk. Solve the puzzles, uncover the secrets and choose how the story ends.
 
-<img src="https://img.shields.io/badge/Coming%20soon-Google%20Play-8B5CF6?style=flat-square&logo=googleplay&logoColor=white" />
+<a href="https://play.google.com/store/apps/details?id=com.ninjanext.oneroomleft"><img src="https://img.shields.io/badge/Coming%20soon-Google%20Play-8B5CF6?style=flat-square&logo=googleplay&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🕌 MuslimApp
+### 🕌 [MuslimApp](https://play.google.com/store/apps/details?id=com.sjtechnologies.muslimapp)
 **Prayer & Remembrance**
 
 *Your calm daily companion.*
 
 Accurate prayer times and reminders, Qibla compass, Tasbeeh counter, Zakat calculator and Hijri date. In English, Urdu and Arabic, and it works fully offline.
 
-<img src="https://img.shields.io/badge/Available-Android-10B981?style=flat-square&logo=android&logoColor=white" />
+<a href="https://play.google.com/store/apps/details?id=com.sjtechnologies.muslimapp"><img src="https://img.shields.io/badge/Available-Android-10B981?style=flat-square&logo=android&logoColor=white" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 MoodCanvas
+### 🎨 [MoodCanvas](https://play.google.com/store/apps/details?id=com.ninjanext.moodcanvas)
 **Visual Mood Journal**
 
 *Your life, one shade at a time.*
 
 Each day becomes a colour, and over time your days paint a beautiful mosaic of your life. Private by design.
 
-<img src="https://img.shields.io/badge/Available-Android-10B981?style=flat-square&logo=android&logoColor=white" />
+<a href="https://play.google.com/store/apps/details?id=com.ninjanext.moodcanvas"><img src="https://img.shields.io/badge/Available-Android-10B981?style=flat-square&logo=android&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -138,6 +138,32 @@ A simple, accurate Qibla finder that's ready the moment you open it.
 A colourful card-matching game with animals, fruits and numbers, for kids and adults.
 
 <img src="https://img.shields.io/badge/Mobile-Game-F59E0B?style=flat-square" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ♟️ [One Move Left](https://play.google.com/store/apps/details?id=com.ninjanext.onemoveleft)
+**Logic Puzzle**
+
+*One board. One move. Make it count.*
+
+100 handcrafted one-move puzzles with chain reactions, portals and switches. Smart hints, stars and achievements, fully offline with no ads.
+
+<a href="https://play.google.com/store/apps/details?id=com.ninjanext.onemoveleft"><img src="https://img.shields.io/badge/Coming%20soon-Google%20Play-8B5CF6?style=flat-square&logo=googleplay&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔷 [Don't Break the Pattern](https://play.google.com/store/apps/details?id=com.ninjanext.dontbreakthepattern)
+**60-Second Brain Puzzles**
+
+*Spot the pattern before time runs out.*
+
+Fast rounds of shape, colour, number and memory puzzles where the rules keep changing. A daily challenge, themes and achievements, fully offline with no ads.
+
+<a href="https://play.google.com/store/apps/details?id=com.ninjanext.dontbreakthepattern"><img src="https://img.shields.io/badge/Coming%20soon-Google%20Play-8B5CF6?style=flat-square&logo=googleplay&logoColor=white" /></a>
 
 </td>
 </tr>
